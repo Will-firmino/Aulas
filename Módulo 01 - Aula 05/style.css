@@ -1,0 +1,46 @@
+.container {
+  max-width: 360px;
+	margin: 0 auto;
+  height: 150px; 
+  padding-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item {
+  border: solid 5px red;
+  background-color: red;
+  flex: 1;
+  margin: 5px; 
+  font-size: 1,5em;
+  padding: 80px 60px;
+
+}
+
+.a {
+ border: solid 5px red;
+  background-color: red;
+  margin: 5px;
+  
+}
+
+.b {
+  border: solid 5px yellow;
+  background-color: yellow;
+  margin: 5px;
+  
+  
+}
+
+.c {
+  border: solid 5px green;
+  background-color: green;
+  margin: 5px;
+  
+}
+
+.d {
+  border: solid 5px purple;
+  background-color: purple;
+  margin: 5px;
+} 
