@@ -4,11 +4,23 @@ Links úteis das aulas:
 
 # Aula 01 - M0 
 
-1-Desafios da carreira Web -  https://www.devmedia.com.br/os-desafios-na-carreira-de-um-desenvolvedor-web/39497
+📌 Desafios da carreira Web-  https://www.devmedia.com.br/os-desafios-na-carreira-de-um-desenvolvedor-web/39497
 
 # Aula 02 - M0 
-1-Site do Scratch - https://scratch.mit.edu/
-2- Material de apoio do Scratch -http://www.scratchbrasil.net.br/index.php/materiais/tutoriais.html
+📌 Site do Scratch - https://scratch.mit.edu/
+<br>
+📌 Material de apoio do Scratch -http://www.scratchbrasil.net.br/index.php/materiais/tutoriais.html
 
 # Aula 03 - M0
-1- 
+📌  Material de ajuda do jogo ping pong - https://resources.scratch.mit.edu/www/cards/pt-br/pong-cards.pdf
+
+# Aula 01 - M1
+📌 Iniciando o HTML - https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+📌 HTML básico - https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics
+📌 HTML ul - https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/ul
+📌 HTML img - https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/img 
+
+# Aula 03 - M1
+📌 O que é o css? - https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/What_is_CSS
+📌 Iniciando com o css - https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/Getting_started
+
