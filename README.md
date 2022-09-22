@@ -30,5 +30,8 @@ Links úteis das aulas:
 
 # Aula 06 - M1
 📌 Criando um portfólio no Github - https://www.linkedin.com/pulse/como-criar-um-portf%C3%B3lio-github-anderson-alves/?originalSubdomain=pt<br>
-📌 Melhorando o Github - https://github.com/training-center/forum/issues/23
+📌 Melhorando o Github - https://github.com/training-center/forum/issues/23<br>
+📌Pseudo-classes - https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes<br>
+📌Pseudo-classes, codepen - https://codepen.io/gaizgrol/pen/qBqzREQ<br>
+📌Pseudo-elementos - https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-elements<br>
 
