@@ -34,4 +34,5 @@ Links úteis das aulas:
 📌Pseudo-classes - https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes<br>
 📌Pseudo-classes, codepen - https://codepen.io/gaizgrol/pen/qBqzREQ<br>
 📌Pseudo-elementos - https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-elements<br>
+📌Pseudo-elementos, codepen - https://codepen.io/gaizgrol/pen/Pobrmev
 
