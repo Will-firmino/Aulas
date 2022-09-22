@@ -15,12 +15,12 @@ Links úteis das aulas:
 📌  Material de ajuda do jogo ping pong - https://resources.scratch.mit.edu/www/cards/pt-br/pong-cards.pdf
 
 # Aula 01 - M1
-📌 Iniciando o HTML - https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML/Getting_started
-📌 HTML básico - https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics
-📌 HTML ul - https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/ul
+📌 Iniciando o HTML - https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML/Getting_started<br>
+📌 HTML básico - https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics<br>
+📌 HTML ul - https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/ul<br>
 📌 HTML img - https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/img 
 
 # Aula 03 - M1
-📌 O que é o css? - https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/What_is_CSS
+📌 O que é o css? - https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/What_is_CSS<br>
 📌 Iniciando com o css - https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/Getting_started
 
