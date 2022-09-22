@@ -36,3 +36,16 @@ Links úteis das aulas:
 📌Pseudo-elementos - https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-elements<br>
 📌Pseudo-elementos, codepen - https://codepen.io/gaizgrol/pen/Pobrmev
 
+# Aula 10 - M1
+📌 Introdução JavaScript - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+
+# Aula 11 - M1
+📌 Condicionais JavaScript - https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/conditionals<br>
+
+# Aula 13 - M1
+📌 Funções MDN - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions <br>
+📌 Operadores Lógicos - https://www.javascripttutorial.net/javascript-logical-operators/ <br>
+📌 Sobre IMC - https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal
+
+# Aula 15 - M1
+📌 Laços e Iterações - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration
