@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aula 05 - 05/09/2022</title>
+    <link rel="stylesheet" href="style.css" />
+
+    <style>
+      .container_geral {
+        border: solid 5px black;
+        display: flex;
+        flex-direction: row;
+        width: 1000px;
+        height: 500px;
+        justify-content: space-evenly;
+        align-items: stretch;
+      }
+
+      .centralizado {
+        border: solid 5px red;
+        background-color: red;
+        width: 200px;
+        height: 110px;
+      }
+
+      .centralizado_2 {
+        border: solid 5px yellow;
+        background-color: yellow;
+        width: 200px;
+        height: 110px;
+      }
+
+      .centralizado_3 {
+        border: solid 5px green;
+        background-color: green;
+        width: 200px;
+        height: 110px;
+      }
+
+      .centralizado_4 {
+        border: solid 5px purple;
+        background-color: purple;
+        width: 200px;
+        height: 110px;
+      }
+
+      @media (max-width: 700px) {
+        body {
+          background-color: black;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container_geral">
+      <div class="centralizado"></div>
+      <div class="centralizado_2"></div>
+      <div class="centralizado_3"></div>
+      <div class="centralizado_4"></div>
+    </div>
+  </body>
+</html>
