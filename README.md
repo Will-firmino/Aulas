@@ -49,3 +49,8 @@ Links úteis das aulas:
 
 # Aula 15 - M1
 📌 Laços e Iterações - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration
+
+
+# Links dos projetos do Modulo II
+📌 Projeto individual - Entrega dia 14/10/2022 - https://www.youtube.com/watch?v=_N8YilDGOMk 
+📌 Projeto em grupo - Entrega dia 28/10/2022 - https://www.youtube.com/watch?v=z8cVdrdhu_I
