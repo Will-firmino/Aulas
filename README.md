@@ -52,5 +52,5 @@ Links úteis das aulas:
 
 
 # Links dos projetos do Modulo II
-📌 Projeto individual - Entrega dia 14/10/2022 - https://www.youtube.com/watch?v=_N8YilDGOMk 
+📌 Projeto individual - Entrega dia 14/10/2022 - https://www.youtube.com/watch?v=_N8YilDGOMk <br> 
 📌 Projeto em grupo - Entrega dia 28/10/2022 - https://www.youtube.com/watch?v=z8cVdrdhu_I
