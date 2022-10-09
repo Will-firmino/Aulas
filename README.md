@@ -1,7 +1,4 @@
-# Aulas
-
-
-#Links úteis:
+# Links úteis:
 
 📌Fotos gratuitas em alta definição
 https://unsplash.com/, 
